@@ -5,7 +5,7 @@
 
 1. 安装所有依赖的安装包  npm install
 2. 启动项目 npm run dev
-3. 登录 http://localhost:port 查看项目
+3. 登录 http://localhost:port/main 查看项目
 4. 项目打包 npm run build 生成的路径在dist文件加下
 
 

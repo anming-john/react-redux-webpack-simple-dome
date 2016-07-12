@@ -1,1 +1,7 @@
-{"javascript":{"main":"/rframe/js/bundle.js"},"styles":{},"assets":{}}
+{
+  "javascript": {
+    "main": "http://172.21.208.78:7878/rframe/js/bundle.js"
+  },
+  "styles": {},
+  "assets": {}
+}

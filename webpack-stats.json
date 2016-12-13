@@ -1,6 +1,6 @@
 {
   "javascript": {
-    "main": "http://172.21.208.78:7878/rframe/js/bundle.js"
+    "main": "./dist/jsbundle.js"
   },
   "styles": {},
   "assets": {}

@@ -20,7 +20,7 @@ var config = Object.assign(basicConfig, {
     filename: 'bundle.js', //this is the default name, so you can skip it
     //at this directory our bundle file will be available
     chunkFilename: 'chunk.[name].[chunkhash].js',
-    publicPath: 'http://' + host + ':' + port + '/rframe/js/'
+    publicPath: './dist/js' //'http://' + host + ':' + port + '/rframe/js/'
   },
   devServer: {
     contentBase: "./dist",

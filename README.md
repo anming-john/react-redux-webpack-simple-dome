@@ -1,5 +1,7 @@
 # react-redux-webpack-simple-dome
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/anming-john/react-redux-webpack-simple-dome.svg)](https://greenkeeper.io/)
+
 # 使用说明
 ## 安装流程
 

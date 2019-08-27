@@ -3,9 +3,8 @@ import { connect } from 'react-redux';
 import { bindActionCreators } from 'redux';
 
 import { testAction } from './reducer/test'
-import Es6 from './Es6'
-// import Counter from './Counter'
-// import ImmutableTest from './ImmutableTest'
+// import Es6 from './Es6'
+
 import CreateClassOrClass from './CreateClassOrClass'
 class Main extends Component {
 
